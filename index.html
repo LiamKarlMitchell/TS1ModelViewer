@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Twelve Sky Model Viewer - Work in progress</title>
+
+	
+	<script data-main="scripts/main" src="scripts/require.js">
+	</script>
+</head>
+<body>
+	<h1>Attempt at a Model Viewer for Twelve Sky</h1>
+	<p>Also appears to work with Twelve Sky 2 and Troy</p>
+	<p>Input SOBJECT or MOBJECT output an8 file for now. Will render with <a href="http://threejs.org/">Three.js</a> in the web browser later, populated list of objects from game whilst it was loading up to server select.</p>
+	</br>
+	<form action='#' onsubmit="return false;">
+		<p>You can load a file from your computer.</p>
+		<input type='file' id='fileinput'>
+		<input type='button' id='btnLoad' value='Load'>
+	</form>
+</body>
+</html>
