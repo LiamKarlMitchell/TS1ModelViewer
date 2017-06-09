@@ -24,9 +24,11 @@ Want to contribute? Great!
 
 If you want to work out file format related things a hex editor and knowldge of 3D file formats would be handy.
 There is great info on this around the net.
+
 [XeNTaX - 3D Model Guide](http://wiki.xentax.com/index.php/3D_Model_Guide)
-[XeNTaX - THE DEFINITIVE GUIDE TO
-EXPLORING FILE FORMATS](http://wiki.xentax.com/index.php/DGTEFF)
+
+[XeNTaX - THE DEFINITIVE GUIDE TO EXPLORING FILE FORMATS](http://wiki.xentax.com/index.php/DGTEFF)
+
 [Reversing a 3D file format from 2001](https://reverseengineering.stackexchange.com/questions/13331/reversing-a-3d-file-format-from-2001)
 
 License
